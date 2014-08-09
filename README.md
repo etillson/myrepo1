@@ -2,4 +2,4 @@ myrepo1
 =======
 
 my first repository
-There is pleanty to learn here
+There is plenty to learn here
